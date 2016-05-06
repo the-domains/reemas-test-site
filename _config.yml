@@ -1,0 +1,14 @@
+layout_spectrum: 0.7597820633091033
+typography_spectrum: 0.04412615695036948
+color:
+  brandStrength: 0.5692908843047917
+  lightness: 0.31374484044499695
+  saturation: 0.816023786785081
+  rhythmicContrast: 0.7379807166289538
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: "reema's test site"
